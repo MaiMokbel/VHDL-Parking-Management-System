@@ -1,0 +1,31 @@
+# Xilinx ISE generated folders
+_xmsgs/
+isim/
+iseconfig/
+ipcore_dir/
+xst/
+
+# Simulation outputs
+*.wdb
+*.log
+*.cmd
+*.cmd_log
+
+# Reports
+*.html
+*.xrpt
+*.xml
+
+# Build outputs
+*.ngc
+*.ngr
+*.stx
+*.lso
+*.syr
+
+# Executables
+*.exe
+
+# Temporary files
+*.bak
+*.tmp
