@@ -279,5 +279,6 @@ This project demonstrates knowledge of:
 
 ### Author
 Mai Mokbel
+
 Digital Logic Design Project
 
